@@ -1,0 +1,54 @@
+
+  .matter {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background: white;
+    padding: 1rem;
+    box-shadow: 0px 0px 2px 2px #00000029;
+    height: 70vh;
+}
+.Extra{
+
+  display: flex;
+  justify-content: space-between;
+  margin-left: 2rem;
+    margin-right: 2rem;
+    background: white;
+    padding: 1rem;
+    box-shadow: 0px 0px 2px 2px #00000029;
+    height: 100%;
+  
+}
+
+body{
+  background-color: #F5F5F5;
+}
+  
+ 
+  input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+
+.User{
+  transform: translate(-100px);
+  margin-top: 5px;
+}
+
+
+
+
+button{
+ margin-left: 0;
+    width: 10%;
+    height: 50px;
+    border: none;
+    font-weight: bold;
+    background-color: purple;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: white;
+}
